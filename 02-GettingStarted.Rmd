@@ -58,6 +58,9 @@ Naver 검색창에 검색어 입력 및 검색
 ```
 ![Figure.3.3.2 JavaScript](./img/04_Flow_1.PNG){width=10%,height=10%}
 
-
+```
+* Session을 종료한다.   
+```
+![Figure.3.5 End Session](./img/05_Flow.PNG){width=40%,height=40%}
 
 
