@@ -3,9 +3,9 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">A2019 Edu</a></li>
+        <li><a href="./">A2019 Web-Automation</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="http://www.bitekic.co.kr/" target="blank">Published with Bitek</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
