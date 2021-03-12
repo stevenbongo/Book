@@ -1,8 +1,0 @@
-`r if (knitr::is_html_output()) '
-# References {-}
-Web-Automation package를 사용하기 위해서는 기본적인 Web 동작방식,API 및 JavaScript에 대한 이해가 필요하다.  
-아래 사이트는 javascript를 공부할 때 많이 도움이 되므로 참고하길 바란다. 
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-'`
