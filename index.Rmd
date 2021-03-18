@@ -1,6 +1,6 @@
 --- 
 title: "A2019 Web-Automation"
-author: "
+author: "Yoon Chang-Sik"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
