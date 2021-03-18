@@ -1,6 +1,6 @@
 --- 
 title: "A2019 Web-Automation"
-author: NULL
+author: 윤창식
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
