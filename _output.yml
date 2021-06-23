@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">A2019 Web-Automation</a></li>
       after: |
-        <li><a href="http://www.bitekic.co.kr/" target="blank">Published with Bitek</a></li>
+        <li><a href="http://www.naver.com/" target="blank">Published</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
